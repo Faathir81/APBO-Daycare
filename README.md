@@ -2,8 +2,8 @@
 Untuk memenuhi tugas APBO
 
 # Oleh
--Faathir Akbar Nugroho
--4522210033
+- Faathir Akbar Nugroho
+- 4522210033
 
 # Sistem Informasi Daycare
 Sistem informasi daycare ini dirancang untuk mengelola informasi terkait pengasuhan anak, termasuk data orang tua, anak, pengasuh, aktivitas harian, pembayaran, dan pendaftaran.
